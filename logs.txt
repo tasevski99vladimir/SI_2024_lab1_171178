@@ -1,0 +1,84 @@
+38978@Tasevski MINGW64 ~/Desktop/SI_2024_lab1_171178 (main)
+$ git log
+commit c856b0ec52a215692bc2715d7a5018f0ec48761a (HEAD -> main)
+Merge: 3cc339b ed83ffa
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:55:41 2024 +0200
+
+    fix conflicts
+
+commit 3cc339baca6363166940859d0fa463f7c6017fd6 (origin/bug1, bug1)
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:51:55 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ba43c8f83e940a5e70c8d18ba78fe6986ecd94d9
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:50:28 2024 +0200
+
+    Revert "Call method filterOddLengthStrings in main class"
+
+    This reverts commit cb1fa54f97da9e4455c642f73912d6bbeab3055c.
+
+commit ed83ffa83af4f4199cff0a21ca56d7d1d36b647d (origin/bug2, bug2)
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+:...skipping...
+commit c856b0ec52a215692bc2715d7a5018f0ec48761a (HEAD -> main)
+Merge: 3cc339b ed83ffa
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:55:41 2024 +0200
+
+    fix conflicts
+
+commit 3cc339baca6363166940859d0fa463f7c6017fd6 (origin/bug1, bug1)
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:51:55 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ba43c8f83e940a5e70c8d18ba78fe6986ecd94d9
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:50:28 2024 +0200
+
+    Revert "Call method filterOddLengthStrings in main class"
+
+    This reverts commit cb1fa54f97da9e4455c642f73912d6bbeab3055c.
+
+commit ed83ffa83af4f4199cff0a21ca56d7d1d36b647d (origin/bug2, bug2)
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:48:18 2024 +0200
+
+    а Call method makeBigStringFrom in main class
+
+commit cb1fa54f97da9e4455c642f73912d6bbeab3055c
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:43:51 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 2c93655cf1e81561375176aa378b87df7cab8efb
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:42:27 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 7f5a08722bb09428c27dc253c00fe037a42d1db5
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:41:06 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit cc526e9639b84bc31500b18f49534f4470ea208c (origin/main)
+Merge: c872cc1 3d21234
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:34:01 2024 +0200
+
+    Merge branch 'main' of https://github.com/tasevski99vladimir/SI_2024_lab1_171178
+
+commit c872cc133cb4b53fb09db2011a808be293c50d70
+Author: tasevski99vladimir <tasevski99vladimir@gmail.com>
+Date:   Sun Apr 14 12:33:22 2024 +0200
+
+    Add starter code
+:
