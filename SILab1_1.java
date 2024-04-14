@@ -8,6 +8,7 @@ public class SILab1_1 {
             if (el.length() % 2 == 1) {
                 result.add(el);
             }
+            System.out.println(SILab1_1.filterOddLengthStrings(list));
         }
         return result;
     }
